@@ -1,0 +1,31 @@
+html, body {
+  background-color: #181818 ;
+}
+
+/* #17182f Dark blue
+   #221B2E Dark Purple
+   #181818 Dark Grey*/
+
+#card {
+  background-color: rgba(0, 0, 0, 0.0);
+  border-color: rgba(0, 0, 0, 0);;
+}
+
+.button {
+  background-color: #666666;
+  border: none;
+  color: white;
+  padding: 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {border-radius: 8px;}
+.button2 {border-radius: 8px;}
+.button3 {border-radius: 8px;}
+.button4 {border-radius: 8px;}
+.button5 {border-radius: 8px;}
