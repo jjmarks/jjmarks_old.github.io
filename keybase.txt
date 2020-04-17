@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jjmarks
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jmarks.net
+  * I am jjmarks (https://keybase.io/jjmarks) on keybase.
+  * I have a public key ASCGJVUrRTpkJ7qJqsVPAjBgodpzCm9g2XrQ63__QZ7e2Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208625552b453a6427ba89aac54f023060a1da730a6f60d97ad0eb7fff419eded80a",
+      "host": "keybase.io",
+      "kid": "01208625552b453a6427ba89aac54f023060a1da730a6f60d97ad0eb7fff419eded80a",
+      "uid": "51f8579fe80bb3db13f1c22d9e460519",
+      "username": "jjmarks"
+    },
+    "merkle_root": {
+      "ctime": 1587156005,
+      "hash": "4a68f98d656b11cc3371fd6f198215d43f362172ac53be946eda4a3e9a60bd7d87b57acd1ef58c5f367dfe1a9dff21ecce10f60262b5e84a9ec76c7cc0281d8d",
+      "hash_meta": "2baa17f35cf9e1bc0e90fd6024b972a95ce49447e677d3a46f52e234bcc61690",
+      "seqno": 15960560
+    },
+    "service": {
+      "entropy": "4IBE51im8qfitkcbjq70SUPY",
+      "hostname": "jmarks.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.0"
+  },
+  "ctime": 1587156018,
+  "expire_in": 504576000,
+  "prev": "76dd8e54bc39cf6eba44e1d28c775553f853f8c92c0f1398bf4d4eb2d39fc4dd",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghiVVK0U6ZCe6iarFTwIwYKHacwpvYNl60Ot//0Ge3tgKp3BheWxvYWTESpcCBcQgdt2OVLw5z266ROHSjHdVU/hT+MksDxOYv01OstOfxN3EIJ0tDeK712v6PPTYnh/WnNmHOF8txneC6saDDetkF+e2AgHCo3NpZ8RAw4vPJXxpyaoW63ZopyMYUri3Y+TNUNyWG7dxUe0DIhO1JrGEugHyCi9z/xL0UJd4ECslmpOvVbknNAptkRlzDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIL7Y6mmvt6jfQRM4hmWqQ8u4ZIlMxF2uuTdvtKXyq3xpo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jjmarks
+
+==================================================================
